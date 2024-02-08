@@ -3,3 +3,8 @@
 /UserSettings/
 /obj/
 /Logs/
+/.vs
+.vsconfig
+/Assembly-CSharp*
+*.sln
+*.csproj
