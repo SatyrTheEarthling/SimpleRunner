@@ -220,3 +220,6 @@ MonoBehaviour:
     FlyChanceWeight: 0.1
     SlowDownChanceWeight: 0.4
     SpeedUpChanceWeight: 0.5
+  SwipeInputSettings:
+    LongMovementLength: 0.4
+    MinMovementLength: 0.05
